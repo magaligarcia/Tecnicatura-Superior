@@ -16,6 +16,7 @@ DURACIÓN: 2 años y medio.
       + [Inglés I ](#id4)
       + [Proyecto Integrador I ](#id5)
       + [Ejercicio profesional ](#id6)
+      + [Python en plataforma Cisco Networking Academy](#id90)
 
   * Segundo cuatrimestre:
       + [Programación Web I ](#id7)
@@ -356,3 +357,61 @@ Toma de decisiones.
 
 Dinámica de grupos.
 
+
+<div id='id90' />
+
+## Python en plataforma Cisco Networking Academy:
+
+Introducción a Python y a la Programación en Computadora
+
+Python como un lenguaje de programación moderno, universal y en crecimiento.
+
+Versiones de Python y desarrollo del lenguaje.
+
+Breve reseña de las herramientas y los entornos necesarios para comenzar a programar en Python.
+
+Tipos de datos, Variables, Operaciones Básicas de Entrada y Salida, y Operadores Básicos.
+
+Cómo escribir y ejecutar el primer programa en Python.
+
+Literales de Python.
+
+Operadores y expresiones de Python.
+
+Variables: cómo nombrarlas y usarlas.
+
+Operaciones básicas de entrada y salida en Python.
+
+Valores Booleanos, Ejecución Condicional, Bucles, Listas y su procesamiento, Operaciones Lógicas y de Bit a Bit.
+
+Tipo de datos booleanos.
+
+Operadores relacionales en Python.
+
+Toma de decisiones en Python: if, if-else, if-elif-else.
+
+Repetición de la ejecución del código mediante bucles: while y for.
+
+Operaciones lógicas y de bit a bit en Python.
+
+Listas en Python: construcción, indexación, división y manipulación de contenido.
+
+Cómo ordenar una lista usando el algoritmo bubble-sort.
+
+Listas multidimensionales y sus aplicaciones.
+
+Funciones, Tuplas, Diccionarios, Exceptiones y Procesamiento de datos.
+
+Estructuración del código y concepto de funciones.
+
+Invocación de funciones y devolución de un resultado de una función.
+
+Alcances de los nombres y sombreado de variables.
+
+Tuplas: propósito, construcción y uso.
+
+Diccionarios: propósito, construcción y uso.
+
+Exceptiones: try-except, algunas excepciones útiles.
+
+Evaluación Global
